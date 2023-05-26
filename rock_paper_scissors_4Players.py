@@ -65,7 +65,7 @@ def get_score(one, two):
     player 3: reflect from the last round of player 2
     player 4: cycle (get the next one of the user)
 
-Solution based on the comparing from the score of 4 players: 
+Solution based on the comparison from the score of 4 players: 
     . step1: player 1 - player 2 --> winner 1
     . step1: player 3 - player 4 --> winner 2
     __________________
